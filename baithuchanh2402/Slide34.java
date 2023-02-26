@@ -37,7 +37,7 @@ public class Slide34 {
             System.out.println("PT co nghiem kep: "
                     + "x1 = x2 = " + x1);
         } else {
-            System.out.println("PT vô nghiem!");
+            System.out.println("PT vo nghiem!");
         }
     }
 }
